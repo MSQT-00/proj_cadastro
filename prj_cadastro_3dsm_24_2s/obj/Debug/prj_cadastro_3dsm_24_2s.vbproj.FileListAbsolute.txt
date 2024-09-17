@@ -1,0 +1,15 @@
+E:\DADOS\prj_cadastro_3dsm_24_2s\bin\Debug\prj_cadastro_3dsm_24_2s.exe.config
+E:\DADOS\prj_cadastro_3dsm_24_2s\bin\Debug\prj_cadastro_3dsm_24_2s.exe
+E:\DADOS\prj_cadastro_3dsm_24_2s\bin\Debug\prj_cadastro_3dsm_24_2s.pdb
+E:\DADOS\prj_cadastro_3dsm_24_2s\bin\Debug\prj_cadastro_3dsm_24_2s.xml
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.vbprojAssemblyReference.cache
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.Form1.resources
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.frm_clientes.resources
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.Resources.resources
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.vbproj.GenerateResource.cache
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.vbproj.CoreCompileInputs.cache
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.exe
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.xml
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.pdb
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\Interop.ADODB.dll
+E:\DADOS\prj_cadastro_3dsm_24_2s\obj\Debug\prj_cadastro_3dsm_24_2s.vbproj.ResolveComReference.cache

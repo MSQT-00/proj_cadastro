@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_cadastro_3dsm_24_2s", "prj_cadastro_3dsm_24_2s.vbproj", "{AC47216B-19FE-457D-8DEE-BD51E32A4CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC47216B-19FE-457D-8DEE-BD51E32A4CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC47216B-19FE-457D-8DEE-BD51E32A4CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC47216B-19FE-457D-8DEE-BD51E32A4CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC47216B-19FE-457D-8DEE-BD51E32A4CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F837BB9-1DE3-4A07-90BD-C3288BCFB0A9}
+	EndGlobalSection
+EndGlobal
